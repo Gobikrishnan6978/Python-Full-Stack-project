@@ -1,0 +1,80 @@
+number=int(input("enter a number":))
+print("the number is",type(number))
+
+decimal_foat(input("enter a decimal"))
+print("the decimal is",type(decimal))
+
+number=double(input("enter a number":))
+print("the double is",type(double))
+
+name=(input("enter a name":))
+print("the name is",type(name))
+
+number=(boolean("enter a boolean is true or false":)
+print(
+
+my_list
+
+
+
+
+temperature=(float(input("enter a temperature"))
+humidity(input("enter a humidity"))
+pressure=(float(input("enter a pressure"))
+wind speed=(float(input("enter a wind speed"))
+cloud_server=(float(input("enter a cloud_server"))
+
+if temperature >30 and humidity > 50:
+print("weather is raining")
+else:
+print("weather is not raining")
+
+
+arithmetic optr
+a = 10
+b = 5
+
+print(a + b)   
+print(a - b)   
+print(a * b)   
+print(a / b)   
+print(a % b)   
+print(a ** b)  
+print(a // b) 
+
+
+relational optr
+a = 10
+b = 5
+
+print(a == b)
+print(a != b)
+print(a > b)
+print(a < b)
+print(a >= b)
+print(a <= b)
+
+logical optr
+
+a = True
+b = False
+print(a and b)
+print(a or b)
+print(not a)
+
+assignment optr
+
+a = 10
+b = a
+print(b)
+b += a
+print(b)
+b -= a
+print(b)
+b *= a
+print(b)
+b <<= a
+print(b) 
+
+
+
